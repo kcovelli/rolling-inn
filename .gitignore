@@ -105,3 +105,6 @@ dist
 
 # Webstorm stuff
 .idea/
+
+# Might get rid of this later depending on how publishing works
+/build/
